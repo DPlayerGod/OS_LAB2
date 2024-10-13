@@ -1,0 +1,11 @@
+#!bin/sh
+
+read -p "Please input your VN's grade: " grade
+
+#if [ $grade -ge 900 ]
+#then
+#	echo "Your letter grade is F"
+#elif [ $grade -ge 800]
+#then 
+#	echo "Cuongde"
+#fi 
