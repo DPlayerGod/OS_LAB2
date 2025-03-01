@@ -1,1 +1,0 @@
-cuong dep trai 
